@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0B1020</color>
+    <color name="bg_panel">#161F33</color>
+    <color name="accent_blue">#5EA8FF</color>
+    <color name="accent_purple">#8C7BFF</color>
+    <color name="text_primary">#F4F7FF</color>
+    <color name="text_secondary">#B4BFDA</color>
+</resources>
